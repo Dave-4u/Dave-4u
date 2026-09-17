@@ -2,7 +2,7 @@
 
 **Adegboro David Oluwadamilare** · B.Sc. Computer Science (Elizade University, class of 2026) · Port Harcourt, Nigeria.
 
-I build practical software — especially **Android** with **Kotlin** / **Jetpack Compose** — and I've done corporate IT through SIWES at Oando.
+I build practical software applications and I've done corporate IT through SIWES at Oando where i sharpened my problem solving and critical thinking skills.
 
 ## Simple practice projects
 
