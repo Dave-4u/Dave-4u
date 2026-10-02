@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Adegboro David — AI Trainer, Data Annotator, AI Response Evaluator, Research and Virtual Assistant">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#d9cfbc"/></pattern>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="#f5efe4"/>
+  <rect width="1200" height="260" rx="22" fill="url(#dots)"/>
+  <rect x="56" y="58" width="64" height="64" rx="16" fill="#1f4d3f"/>
+  <text x="88" y="104" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#f5efe4" text-anchor="middle">D</text>
+  <circle cx="113" cy="104" r="5" fill="#d9603b"/>
+  <text x="148" y="84" font-family="ui-monospace, Consolas, monospace" font-size="18" fill="#6d675b">hello, I'm</text>
+  <text x="146" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#1e1c18">Adegboro David</text>
+  <rect x="146" y="150" width="365" height="18" fill="#f2be4c" opacity="0.55"/>
+  <text x="148" y="164" font-family="ui-monospace, Consolas, monospace" font-size="17" fill="#1e1c18">B.Sc. Computer Science · 2:1 · Elizade '26</text>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="16" fill="#4a463d">
+    <rect x="146" y="190" width="120" height="34" rx="7" fill="#fbf8f2" stroke="#d9cfbc" stroke-dasharray="4 3"/><text x="206" y="212" text-anchor="middle">AI Trainer</text>
+    <rect x="276" y="190" width="160" height="34" rx="7" fill="#fbf8f2" stroke="#d9cfbc" stroke-dasharray="4 3"/><text x="356" y="212" text-anchor="middle">Data Annotator</text>
+    <rect x="446" y="190" width="230" height="34" rx="7" fill="#fbf8f2" stroke="#d9cfbc" stroke-dasharray="4 3"/><text x="561" y="212" text-anchor="middle">AI Response Evaluator</text>
+    <rect x="686" y="190" width="290" height="34" rx="7" fill="#fbf8f2" stroke="#d9cfbc" stroke-dasharray="4 3"/><text x="831" y="212" text-anchor="middle">Research &amp; Virtual Assistant</text>
+  </g>
+  <g transform="translate(1010 60)">
+    <rect width="140" height="140" rx="20" fill="#1f4d3f" transform="rotate(4 70 70)"/>
+    <rect width="140" height="140" rx="20" fill="#fbf8f2" stroke="#1e1c18" stroke-width="2"/>
+    <path d="M28 48h84M28 70h60M28 92h72" stroke="#d9cfbc" stroke-width="8" stroke-linecap="round"/>
+    <path d="M26 70h64" stroke="#f2be4c" stroke-width="12" stroke-linecap="round" opacity=".7"/>
+    <path d="M96 100l10 10 20-24" fill="none" stroke="#d9603b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1080" y="232" font-family="ui-monospace, Consolas, monospace" font-size="14" fill="#6d675b" text-anchor="middle">Port Harcourt, NG</text>
+</svg>
